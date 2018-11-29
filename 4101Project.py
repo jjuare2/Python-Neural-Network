@@ -81,6 +81,6 @@ print(rhymePrediction("king's horses", 4, sequencePrediction))
 print("")
 print("Testing 'put Humpty' prediction with the next 6 sequences")
 print("")
-print(rhymePrediction("put Humpty", 4, sequencePrediction))
+print(rhymePrediction("put Humpty", 6, sequencePrediction))
 
 
